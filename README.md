@@ -14,11 +14,21 @@ Suggested to run `pip install -r requirements.txt` before running `main.py`
 
 How to check your Chrome's version ([English][check_chrome_ver_ENG] / [中文][check_chrome_ver_ZH])
 
-Download the correct version of ChromeDriver
+### Setup web-driver
 
-Unzip, put the `.exe` file into the `webdriver/` directory
+1) Download the correct version of ChromeDriver
 
-Edit the ChromeDriver path in `config.py` if necessary
+2) Unzip, put the `.exe` file into the `webdriver/` directory
+
+3) Edit the ChromeDriver path in `config.py` if necessary
+
+## Extension(s)
+
+See [chrome_extensions](./chrome_extensions)
+
+Any Chrome extensions can be added to the web driver
+
+Follow the stucture of given example in `chrome_extensions/` directory show works
 
 ## References
 

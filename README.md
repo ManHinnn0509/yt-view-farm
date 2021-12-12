@@ -28,7 +28,7 @@ See [chrome_extensions](./chrome_extensions)
 
 Any Chrome extensions can be added to the web driver
 
-Follow the stucture of given example in `chrome_extensions/` directory show works
+Follow the stucture of given example in `chrome_extensions/` directory should work
 
 ## References
 
